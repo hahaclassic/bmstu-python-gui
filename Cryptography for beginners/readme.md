@@ -1,4 +1,4 @@
-* The source codes of encryption algorithms are taken from the book "Hacking Secret Ciphers with Python", Al Sweigart
+* The source codes of encryption algorithms are taken from the book "Hacking Secret Ciphers with Python", Al Sweigart (the files have been slightly modified)
 
 * The dictionary of Russian words was taken from Anton Sergienko, the file is under the MIT license
 
