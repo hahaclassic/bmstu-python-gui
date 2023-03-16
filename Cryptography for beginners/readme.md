@@ -7,3 +7,5 @@ Materials taken:
 * The dictionary of Russian words was taken from Anton Sergienko, the file is under the MIT license
 
 **! The application was created for educational purposes !**
+
+2022
